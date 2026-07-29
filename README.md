@@ -12,7 +12,7 @@ Instead of creating random charts, the dashboard focuses on answering real busin
 
 ---
 ---
-![image.png…]()
+![Dashboard]("https://github.com/sshankt/Retail_Sales_Excel_Dashboard/blob/main/image.png")
 
 
 # 🎯 Business Objectives
