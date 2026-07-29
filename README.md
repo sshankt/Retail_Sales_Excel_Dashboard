@@ -11,6 +11,9 @@ The objective was simple:
 Instead of creating random charts, the dashboard focuses on answering real business questions that support better decision-making.
 
 ---
+---
+![image.png…]()
+
 
 # 🎯 Business Objectives
 
@@ -127,15 +130,6 @@ Interactive Dashboard
 Business Insights
 ```
 
----
-
-# 📷 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-![Dashboard](Images/dashboard.png)
-
----
 
 # 🚀 Conclusion
 
