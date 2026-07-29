@@ -14,7 +14,14 @@ Instead of creating random charts, the dashboard focuses on answering real busin
 ---
 ![Retail Sales Dashboard](image.png)
 
+---
+![Retail Sales Cleaned Data](Cleaned_data.jpg)
 
+---
+
+![Retail Sales Raw Data](Raw_data.jpg)
+
+---
 # 🎯 Business Objectives
 
 This dashboard helps answer questions such as:
