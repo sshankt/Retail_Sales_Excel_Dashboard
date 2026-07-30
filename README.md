@@ -13,7 +13,7 @@ Instead of creating random charts, the dashboard focuses on answering real busin
 ---
 ---
 ![Retail Sales Dashboard](image.png)
-
+Video project explaining Link - https://www.linkedin.com/feed/update/urn:li:activity:7488095328068542464/
 ---
 ![Retail Sales Cleaned Data](Cleaned_data.jpg)
 
